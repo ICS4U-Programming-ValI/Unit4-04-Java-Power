@@ -1,0 +1,8 @@
+8
+Please provide two integers.
+2025
+Integers only!
+Integers only!
+Exponent cannot be negative.
+9
+-1024
